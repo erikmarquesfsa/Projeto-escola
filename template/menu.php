@@ -17,10 +17,10 @@
           <a class="nav-link" href="painel.php?rota=cad_prof">Cadastro de Professores</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Cadastro de Disciplinas</a>
+          <a class="nav-link" href="painel.php?rota=cad_disp">Cadastro de Disciplinas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Cadastro de Funcionários</a>
+          <a class="nav-link" href="painel.php?rota=cad_func">Cadastro de Funcionários</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Sair</a>

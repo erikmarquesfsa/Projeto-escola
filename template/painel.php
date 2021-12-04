@@ -19,6 +19,18 @@
             case 'cad_prof':
                 include "painel/cad_prof.php";
             break;
+
+            case 'cad_func':
+                include "painel/cad_func.php";
+            break;
+
+            case 'cad_disp':
+                include "painel/cad_disp.php";
+            break;
+
+            case 'cad_nota':
+                include "painel/cad_nota.php";
+            break;
         }
     }
     ?>
